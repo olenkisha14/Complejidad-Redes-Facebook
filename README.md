@@ -15,10 +15,18 @@ Trabajo Parcial (TB1) del curso **1ACC0184 – Complejidad Algorítmica** (UPC, 
 Se usa el conjunto **ego-Facebook** del Stanford Network Analysis Project (SNAP):
 4,039 usuarios y 88,234 amistades, con datos anonimizados por sus autores.
 
-> McAuley, J., & Leskovec, J. (2012). Learning to discover social circles in ego networks.
-> *Advances in Neural Information Processing Systems*, 25, 539–547.
-> Fuente: https://snap.stanford.edu/data/ego-Facebook.html
+Conjunto de datos:
 
+> Stanford Network Analysis Project. (2012). *Social circles: Facebook* [Conjunto de datos].
+> Stanford University. https://snap.stanford.edu/data/ego-Facebook.html
+
+Artículo original de los autores del dataset:
+
+> McAuley, J., & Leskovec, J. (2012). Learning to discover social circles in ego networks.
+> En F. Pereira, C. J. C. Burges, L. Bottou, & K. Q. Weinberger (Eds.),
+> *Advances in Neural Information Processing Systems* (Vol. 25, pp. 539–547). Curran Associates, Inc.
+> https://proceedings.neurips.cc/paper_files/paper/2012/hash/7a614fd06c325499f1680b9896beedeb-Abstract.html
+> 
 Los archivos originales no se incluyen en el repositorio: el script los descarga
 automáticamente desde SNAP la primera vez que se ejecuta.
 
