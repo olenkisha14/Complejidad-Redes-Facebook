@@ -1,6 +1,7 @@
 # Redes sociales y comunidades: análisis de la red de Facebook (SNAP)
 
-Trabajo Parcial (TB1) del curso **1ACC0184 - Complejidad Algorítmica** (UPC, 2026-20).
+Trabajo del curso **1ACC0184 – Complejidad Algorítmica** (UPC, 2026-20).
+Entregas: Trabajo Parcial (TB1), Hito 2 y Trabajo Final (Hito 3).
 
 ## Integrantes
 
