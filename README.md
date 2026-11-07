@@ -99,6 +99,6 @@ librería se usa solo como contenedor del grafo.
 
 ## Estado del proyecto
 
-- **Hito 1 (TB1):** modelado del grafo, cálculo de pesos y propuesta de técnicas — completado.
-- **Hito 2:** diseño e implementación de los tres algoritmos sobre datos reales — completado; validación de resultados pendiente para la entrega final.
-- **Trabajo Final (Hito 3):** validación, conclusiones y video de sustentación — pendiente.
+- **Hito 1 (TB1):** modelado del grafo, cálculo de pesos y propuesta de técnicas - completado.
+- **Hito 2:** diseño e implementación de los tres algoritmos sobre datos reales - completado; validación de resultados pendiente para la entrega final.
+- **Trabajo Final (Hito 3):** validación, conclusiones y video de sustentación - pendiente.
